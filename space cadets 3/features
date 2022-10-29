@@ -1,0 +1,25 @@
+This file is to document the extension of the bare bones programming language.
+The goal is to implement these features.
+
+switch case statements 
+basic procedures 
+
+Procedures use the global scope and have the following syntax:
+
+procedure name;
+	incr var;
+end procedure;
+
+they are called by typing:
+ call name;
+
+There are also switch case statements:
+
+
+switch case statements
+switch var 
+case 1
+	incr var
+case 2
+	decr var
+end case
